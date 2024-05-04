@@ -1,118 +1,123 @@
 const assert = require('assert');
 const { Given, When, Then } = require('@cucumber/cucumber');
 
-Given('que el usuario selecciona una materia Español', function () {
+Given('que soy un miembro de la comunidad en PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   })
 
-  When('El usuario quiere buscar un maestro', function () {
+  When('necesito resolver un problema técnico', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra una lista de maestros que imparten Español', function () {
+  Then('debo poder acceder fácilmente al chat de asistencia desde la plataforma para obtener ayuda', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('El usuarios selecciona la materia matematicas ', function () {
+  Given('que soy un miembro de la comunidad en PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('el usuario intenta buscar un maestro', function () {
+  When('quiero obtener ayuda inmediata durante las horas de operación especificadas', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra una lista de maestros que imparten Matemáticas', function () {
+  Then('debo poder iniciar una conversación en el chat en vivo en cualquier momento para obtener asistencia', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('Selecciona tres maestros de la lista y ordena por calificación más alta.', function () {
+  Given('que soy un miembro de la comunidad en PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra la lista de maestros ordenada por calificación', function () {
+  When('accedo al chat de asistencia', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('El usuario selecciona dos maestros de la lista.', function () {
+  Then('debo poder ver claramente si los agentes están disponibles o no para saber cuándo esperar una respuesta', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('el usuario quiere comparar dos maestros', function () {
+  Given('que soy un usuario de PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra una tabla comparativa con las calificaciones promedio', function () {
+  When('utilizo el chat en vivo para resolver problemas o obtener orientación', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('Filtra por maestros con calificación mayor a 4.5', function () {
+  Then('debo recibir respuestas rápidas y efectivas del equipo de soporte técnico', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('el usuario usa filtros para buscar maestros', function () {
+  Given('que soy un miembro de la comunidad en PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra una lista actualizada con solo los maestros ', function () {
+  When('utilizo el chat en vivo para obtener ayuda', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('Ordena la lista por número de evaluaciones de mayor a menor.', function () {
+  Then('espero que el equipo de soporte técnico resuelva mi problema o pregunta de manera completa y precisa', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('El usuario busca un maestro con filtros', function () {
+  Given(' que soy un usuario de PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra la lista de maestros ordenada por el número de evaluaciones recibidas.', function () {
+  When('tengo interacciones a través del chat en vivo', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('Selecciona un maestro desde la lista o la herramienta de comparación', function () {
+  Then(' espero que todas las interacciones se registren y mantengan para referencia futura', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('Quiere comparar a dos maestros', function () {
+  Given('que soy un miembro de la comunidad en PyRank', function () {
+    // Write code here that turns the phrase above into concrete actions
+    return 'pending';
+  });
+
+  When('necesito asistencia técnica', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
 
-  Then('Muestra un perfil detallado del maestro ', function () {
+  Then('deseo que el chat en vivo esté disponible durante un horario extenso, incluso fuera del horario laboral estándar si es posible ', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Given('Desde el perfil detallado, el usuario puede leer comentarios de otros estudiantes.', function () {
+  Given('que soy un usuario de PyRank', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  When('Quiere informacion del maestro con comentarios de otros estudiantes', function () {
+  When('necesito acceder al chat de asistencia', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
 
-  Then('Muestra una sección con comentarios de estudiantes que han tomado clases con el maestro.', function () {
+  Then('deseo que esté bien integrado en la plataforma y sea fácil de usar para acceder rápidamente', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
